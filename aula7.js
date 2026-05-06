@@ -2,7 +2,7 @@
 let contador = 0;
 
 //Selecionamos os elementos do HTML que queremos manipular
-// Usamos o ID que definimos lá no 
+// Usamos o ID que definimos lá no HTML 
 const display = document.getElementById("display");
 const botao = document.getElementById("btnIncrementar");
 
